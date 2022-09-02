@@ -7,7 +7,7 @@
 <strong>
 >_xara AcountNuker is juste a discord acountnuker.
 <br>
-
+the tool made whith tkinter
 <br><br><br>
 </strong>
 </p>
